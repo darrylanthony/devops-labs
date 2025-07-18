@@ -1,0 +1,9 @@
+🧹 Starting log cleanup...
+Before cleanup:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        25G  6.8G   17G  30% /
+Proceeding to delete...
+After cleanup:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        25G  6.8G   17G  30% /
+✅ Log cleanup complete.

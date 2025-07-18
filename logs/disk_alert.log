@@ -1,0 +1,5 @@
+📊 Current disk usage: 30%
+✅ Disk usage is within acceptable limits.
+/bin/sh: 1: /home/YOUR-USERNAME/devops-labs/bash-scripts/disk_alert.sh: not found
+/bin/sh: 1: /home/YOUR-USERNAME/devops-labs/bash-scripts/disk_alert.sh: not found
+/bin/sh: 1: /home/YOUR-USERNAME/devops-labs/bash-scripts/disk_alert.sh: not found
